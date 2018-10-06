@@ -41,8 +41,8 @@ public class UserControllerTest {
 		User user = new User();
 		user.setDepartment("departmentName");
 		user.setDob(new Date(1992,10,16));
-		user.setFirstName("syed");
-		user.setLastName("warsi");
+		user.setFirstName("shivangi");
+		user.setLastName("Srivastava");
 		user.setId("M1035870");
 		user.setGender("male");
 		Mockito.when(
